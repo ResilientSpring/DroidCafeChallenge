@@ -1,169 +1,166 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\ted10014\SkyDrive\Android\DroidCafeChallenge2\DroidCafeChallenge\app\src\main\AndroidManifest.xml:18:1-41:12
-INJECTED from C:\Users\ted10014\SkyDrive\Android\DroidCafeChallenge2\DroidCafeChallenge\app\src\main\AndroidManifest.xml:18:1-41:12
-INJECTED from C:\Users\ted10014\SkyDrive\Android\DroidCafeChallenge2\DroidCafeChallenge\app\src\main\AndroidManifest.xml:18:1-41:12
-INJECTED from C:\Users\ted10014\SkyDrive\Android\DroidCafeChallenge2\DroidCafeChallenge\app\src\main\AndroidManifest.xml:18:1-41:12
-MERGED from [com.google.android.material:material:1.0.0] C:\Users\ted10014\.gradle\caches\transforms-2\files-2.1\b993da38436db8aa9bbcc3b6cba1aa79\material-1.0.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.appcompat:appcompat:1.0.0] C:\Users\ted10014\.gradle\caches\transforms-2\files-2.1\ede3a54bad95ec5e304beb380353247a\appcompat-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\ted10014\.gradle\caches\transforms-2\files-2.1\5f6178793eab0d00d8da4a72adf717fd\constraintlayout-1.1.3\AndroidManifest.xml:2:1-11:12
-MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\ted10014\.gradle\caches\transforms-2\files-2.1\ec60912b9a360ae2e65ff9551374e408\fragment-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\ted10014\.gradle\caches\transforms-2\files-2.1\e32057c829b12cb4548b6226b3a78c9b\vectordrawable-animated-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\ted10014\.gradle\caches\transforms-2\files-2.1\5b15bda8d8d07b41b7bc0a2beac47079\recyclerview-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\ted10014\.gradle\caches\transforms-2\files-2.1\db1a88aa8d00a971df1d7414290cda12\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\ted10014\.gradle\caches\transforms-2\files-2.1\0120b4add614f5c34814c5f2338ed2ea\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] C:\Users\ted10014\.gradle\caches\transforms-2\files-2.1\b6a70870c9175c5810d71265de7a1a19\vectordrawable-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.transition:transition:1.0.0] C:\Users\ted10014\.gradle\caches\transforms-2\files-2.1\80224e1f1c9cf0f5065cbf27f99f0bbc\transition-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.loader:loader:1.0.0] C:\Users\ted10014\.gradle\caches\transforms-2\files-2.1\869ca5a56b92140c5cdf6167e44df240\loader-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\ted10014\.gradle\caches\transforms-2\files-2.1\f35416a842330f32f8a375204d74bdf1\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\ted10014\.gradle\caches\transforms-2\files-2.1\0dbda3c10a4c084af3c69e2195431ca4\coordinatorlayout-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\ted10014\.gradle\caches\transforms-2\files-2.1\85d517c786d9a2090b7ba6db41f65f0e\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\ted10014\.gradle\caches\transforms-2\files-2.1\06b7a5374427b469e169ddfbaa5b266b\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.customview:customview:1.0.0] C:\Users\ted10014\.gradle\caches\transforms-2\files-2.1\6a05af489b7325c57094584e3657bfc1\customview-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\ted10014\.gradle\caches\transforms-2\files-2.1\a6bf1354a20c423907a8f57006330f73\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\ted10014\.gradle\caches\transforms-2\files-2.1\7608094fe758d1d9b0bae440a7cbe67a\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.core:core:1.0.0] C:\Users\ted10014\.gradle\caches\transforms-2\files-2.1\20dcebe23302dc5509a9bd4aa498905c\core-1.0.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\ted10014\.gradle\caches\transforms-2\files-2.1\547c274156d7e29372e8a2b51ac3aad1\versionedparcelable-1.0.0\AndroidManifest.xml:17:1-25:12
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\ted10014\.gradle\caches\transforms-2\files-2.1\9a319a17d8cec259feff8442e660c857\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\ted10014\.gradle\caches\transforms-2\files-2.1\d78197c251a03bd8b0f2aac942169331\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\ted10014\.gradle\caches\transforms-2\files-2.1\4bf21eb0834fc8de1b4849b578dad08f\lifecycle-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\ted10014\.gradle\caches\transforms-2\files-2.1\d426ad56ad9fae79d0acbbe9a88e1cc2\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\ted10014\.gradle\caches\transforms-2\files-2.1\b208dda6e431ff0e268c9b99b6bc6972\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.print:print:1.0.0] C:\Users\ted10014\.gradle\caches\transforms-2\files-2.1\a1c0603f5c9c2bd93e2721d4d4e70b5e\print-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\ted10014\.gradle\caches\transforms-2\files-2.1\7dc23fbc6d8906d1b71525df4312a213\lifecycle-viewmodel-2.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\ted10014\.gradle\caches\transforms-2\files-2.1\47ebe00484fa6977431e215e5255259e\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\ted10014\.gradle\caches\transforms-2\files-2.1\78c4b5a2c25b0f9d9205b436a3c8baeb\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\ted10014\.gradle\caches\transforms-2\files-2.1\33d620adfb4506534db94bbc45944013\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\ted10014\.gradle\caches\transforms-2\files-2.1\d6696ce78928a94b2ea7ad4c59c859fe\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
-INJECTED from C:\Users\ted10014\SkyDrive\Android\DroidCafeChallenge2\DroidCafeChallenge\app\src\main\AndroidManifest.xml:18:1-41:12
-INJECTED from C:\Users\ted10014\SkyDrive\Android\DroidCafeChallenge2\DroidCafeChallenge\app\src\main\AndroidManifest.xml:18:1-41:12
-INJECTED from C:\Users\ted10014\SkyDrive\Android\DroidCafeChallenge2\DroidCafeChallenge\app\src\main\AndroidManifest.xml:18:1-41:12
+ADDED from C:\Users\ted10014\SkyDrive\Android\DroidCafeChallenge2\DroidCafeChallenge\app\src\main\AndroidManifest.xml:18:1-45:12
+INJECTED from C:\Users\ted10014\SkyDrive\Android\DroidCafeChallenge2\DroidCafeChallenge\app\src\main\AndroidManifest.xml:18:1-45:12
+INJECTED from C:\Users\ted10014\SkyDrive\Android\DroidCafeChallenge2\DroidCafeChallenge\app\src\main\AndroidManifest.xml:18:1-45:12
+INJECTED from C:\Users\ted10014\SkyDrive\Android\DroidCafeChallenge2\DroidCafeChallenge\app\src\main\AndroidManifest.xml:18:1-45:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\ted10014\.gradle\caches\transforms-2\files-2.1\e7e08e901271ddedf3b6abae3fae1180\constraintlayout-2.0.1\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.material:material:1.2.0] C:\Users\ted10014\.gradle\caches\transforms-2\files-2.1\b9cc3ce27c2359d2adfe8d7220c31053\material-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\ted10014\.gradle\caches\transforms-2\files-2.1\648553addc976d46aac4da8350cf7ce0\appcompat-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\ted10014\.gradle\caches\transforms-2\files-2.1\cdb091fd122eec5f2ba1f62cfae41b93\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\ted10014\.gradle\caches\transforms-2\files-2.1\f5aedf9fe581b7e9333273e54579e3f0\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\ted10014\.gradle\caches\transforms-2\files-2.1\0323c625456b5af7d5139d65c9f8f65f\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\ted10014\.gradle\caches\transforms-2\files-2.1\e3f3a8961ceacc95a58814d05182150d\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\ted10014\.gradle\caches\transforms-2\files-2.1\a8fc4fa72a7411222c8cfc6e9ec61e75\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\ted10014\.gradle\caches\transforms-2\files-2.1\e97ebad9b3aacea5229f9be181c7949d\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\ted10014\.gradle\caches\transforms-2\files-2.1\08124b012a70a9803573cde068e2b9ed\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\ted10014\.gradle\caches\transforms-2\files-2.1\8f5559d9cc86d01a2de3d2b062d9b9a2\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\ted10014\.gradle\caches\transforms-2\files-2.1\b70b3798ec878b45b2a0a81634cce294\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\ted10014\.gradle\caches\transforms-2\files-2.1\7a8e29c147c747fd9b125daf8862d6b2\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\ted10014\.gradle\caches\transforms-2\files-2.1\9e8e6d09197a61d74067109387e35fc7\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\ted10014\.gradle\caches\transforms-2\files-2.1\158f5cfc0b4648681744ecfa4042c23b\jetified-activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\ted10014\.gradle\caches\transforms-2\files-2.1\4e891082990df48be1bf2b9ebb351bd8\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\ted10014\.gradle\caches\transforms-2\files-2.1\e11919b9d701cc6ea4ca233a3f620a7c\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.3.1] C:\Users\ted10014\.gradle\caches\transforms-2\files-2.1\a6e077cad25bf85b43a357d8ea26e77a\core-1.3.1\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\ted10014\.gradle\caches\transforms-2\files-2.1\0a8bfeae0101deac09a33f0a838718cb\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\ted10014\.gradle\caches\transforms-2\files-2.1\05a0e6d29a797da76ddb5deb16ae72ba\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\ted10014\.gradle\caches\transforms-2\files-2.1\08db3826d2e5b6557fb99356f1319ffd\lifecycle-runtime-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\ted10014\.gradle\caches\transforms-2\files-2.1\b4a223440eacb8e72dfc4de9a8e95456\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\ted10014\.gradle\caches\transforms-2\files-2.1\ceba59c42c491cbbb489fbfcde0d8ed5\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\ted10014\.gradle\caches\transforms-2\files-2.1\9a75dbc7e9b06c31b295eb770c4dcff4\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\ted10014\.gradle\caches\transforms-2\files-2.1\d920a6e13bec4ce1782aa1f8881f0e7e\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\ted10014\.gradle\caches\transforms-2\files-2.1\cac3e6170f7750d4a3118fd450ab85c2\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\ted10014\.gradle\caches\transforms-2\files-2.1\773b106d64b3b9d5f45e3fb97026de4b\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\ted10014\.gradle\caches\transforms-2\files-2.1\9434e013e462774297f465f78d88a5aa\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\ted10014\SkyDrive\Android\DroidCafeChallenge2\DroidCafeChallenge\app\src\main\AndroidManifest.xml:18:1-45:12
+INJECTED from C:\Users\ted10014\SkyDrive\Android\DroidCafeChallenge2\DroidCafeChallenge\app\src\main\AndroidManifest.xml:18:1-45:12
+INJECTED from C:\Users\ted10014\SkyDrive\Android\DroidCafeChallenge2\DroidCafeChallenge\app\src\main\AndroidManifest.xml:18:1-45:12
 	package
 		ADDED from C:\Users\ted10014\SkyDrive\Android\DroidCafeChallenge2\DroidCafeChallenge\app\src\main\AndroidManifest.xml:19:5-44
 		INJECTED from C:\Users\ted10014\SkyDrive\Android\DroidCafeChallenge2\DroidCafeChallenge\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\ted10014\SkyDrive\Android\DroidCafeChallenge2\DroidCafeChallenge\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from C:\Users\ted10014\SkyDrive\Android\DroidCafeChallenge2\DroidCafeChallenge\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\ted10014\SkyDrive\Android\DroidCafeChallenge2\DroidCafeChallenge\app\src\main\AndroidManifest.xml:18:1-41:12
+		ADDED from C:\Users\ted10014\SkyDrive\Android\DroidCafeChallenge2\DroidCafeChallenge\app\src\main\AndroidManifest.xml:18:1-45:12
 		INJECTED from C:\Users\ted10014\SkyDrive\Android\DroidCafeChallenge2\DroidCafeChallenge\app\src\main\AndroidManifest.xml
+	xmlns:dist
+		ADDED from C:\Users\ted10014\SkyDrive\Android\DroidCafeChallenge2\DroidCafeChallenge\app\src\main\AndroidManifest.xml:20:5-61
 	android:versionCode
 		INJECTED from C:\Users\ted10014\SkyDrive\Android\DroidCafeChallenge2\DroidCafeChallenge\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\ted10014\SkyDrive\Android\DroidCafeChallenge2\DroidCafeChallenge\app\src\main\AndroidManifest.xml:18:1-41:12
+		ADDED from C:\Users\ted10014\SkyDrive\Android\DroidCafeChallenge2\DroidCafeChallenge\app\src\main\AndroidManifest.xml:18:1-45:12
 		INJECTED from C:\Users\ted10014\SkyDrive\Android\DroidCafeChallenge2\DroidCafeChallenge\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from C:\Users\ted10014\SkyDrive\Android\DroidCafeChallenge2\DroidCafeChallenge\app\src\main\AndroidManifest.xml:18:11-69
+dist:module
+ADDED from C:\Users\ted10014\SkyDrive\Android\DroidCafeChallenge2\DroidCafeChallenge\app\src\main\AndroidManifest.xml:22:5-40
+	dist:instant
+		ADDED from C:\Users\ted10014\SkyDrive\Android\DroidCafeChallenge2\DroidCafeChallenge\app\src\main\AndroidManifest.xml:22:18-37
 application
-ADDED from C:\Users\ted10014\SkyDrive\Android\DroidCafeChallenge2\DroidCafeChallenge\app\src\main\AndroidManifest.xml:21:5-39:19
-MERGED from [com.google.android.material:material:1.0.0] C:\Users\ted10014\.gradle\caches\transforms-2\files-2.1\b993da38436db8aa9bbcc3b6cba1aa79\material-1.0.0\AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.material:material:1.0.0] C:\Users\ted10014\.gradle\caches\transforms-2\files-2.1\b993da38436db8aa9bbcc3b6cba1aa79\material-1.0.0\AndroidManifest.xml:22:5-20
-MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\ted10014\.gradle\caches\transforms-2\files-2.1\5f6178793eab0d00d8da4a72adf717fd\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
-MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\ted10014\.gradle\caches\transforms-2\files-2.1\5f6178793eab0d00d8da4a72adf717fd\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
-MERGED from [androidx.core:core:1.0.0] C:\Users\ted10014\.gradle\caches\transforms-2\files-2.1\20dcebe23302dc5509a9bd4aa498905c\core-1.0.0\AndroidManifest.xml:22:5-89
-MERGED from [androidx.core:core:1.0.0] C:\Users\ted10014\.gradle\caches\transforms-2\files-2.1\20dcebe23302dc5509a9bd4aa498905c\core-1.0.0\AndroidManifest.xml:22:5-89
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\ted10014\.gradle\caches\transforms-2\files-2.1\547c274156d7e29372e8a2b51ac3aad1\versionedparcelable-1.0.0\AndroidManifest.xml:22:5-23:19
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\ted10014\.gradle\caches\transforms-2\files-2.1\547c274156d7e29372e8a2b51ac3aad1\versionedparcelable-1.0.0\AndroidManifest.xml:22:5-23:19
+ADDED from C:\Users\ted10014\SkyDrive\Android\DroidCafeChallenge2\DroidCafeChallenge\app\src\main\AndroidManifest.xml:23:5-43:19
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\ted10014\.gradle\caches\transforms-2\files-2.1\e7e08e901271ddedf3b6abae3fae1180\constraintlayout-2.0.1\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\ted10014\.gradle\caches\transforms-2\files-2.1\e7e08e901271ddedf3b6abae3fae1180\constraintlayout-2.0.1\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.material:material:1.2.0] C:\Users\ted10014\.gradle\caches\transforms-2\files-2.1\b9cc3ce27c2359d2adfe8d7220c31053\material-1.2.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.2.0] C:\Users\ted10014\.gradle\caches\transforms-2\files-2.1\b9cc3ce27c2359d2adfe8d7220c31053\material-1.2.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.core:core:1.3.1] C:\Users\ted10014\.gradle\caches\transforms-2\files-2.1\a6e077cad25bf85b43a357d8ea26e77a\core-1.3.1\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.1] C:\Users\ted10014\.gradle\caches\transforms-2\files-2.1\a6e077cad25bf85b43a357d8ea26e77a\core-1.3.1\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\ted10014\.gradle\caches\transforms-2\files-2.1\05a0e6d29a797da76ddb5deb16ae72ba\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\ted10014\.gradle\caches\transforms-2\files-2.1\05a0e6d29a797da76ddb5deb16ae72ba\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
 	android:appComponentFactory
-		ADDED from [androidx.core:core:1.0.0] C:\Users\ted10014\.gradle\caches\transforms-2\files-2.1\20dcebe23302dc5509a9bd4aa498905c\core-1.0.0\AndroidManifest.xml:22:18-86
+		ADDED from [androidx.core:core:1.3.1] C:\Users\ted10014\.gradle\caches\transforms-2\files-2.1\a6e077cad25bf85b43a357d8ea26e77a\core-1.3.1\AndroidManifest.xml:24:18-86
 	android:supportsRtl
-		ADDED from C:\Users\ted10014\SkyDrive\Android\DroidCafeChallenge2\DroidCafeChallenge\app\src\main\AndroidManifest.xml:26:9-35
+		ADDED from C:\Users\ted10014\SkyDrive\Android\DroidCafeChallenge2\DroidCafeChallenge\app\src\main\AndroidManifest.xml:28:9-35
 	android:label
-		ADDED from C:\Users\ted10014\SkyDrive\Android\DroidCafeChallenge2\DroidCafeChallenge\app\src\main\AndroidManifest.xml:24:9-41
+		ADDED from C:\Users\ted10014\SkyDrive\Android\DroidCafeChallenge2\DroidCafeChallenge\app\src\main\AndroidManifest.xml:26:9-41
 	android:roundIcon
-		ADDED from C:\Users\ted10014\SkyDrive\Android\DroidCafeChallenge2\DroidCafeChallenge\app\src\main\AndroidManifest.xml:25:9-54
+		ADDED from C:\Users\ted10014\SkyDrive\Android\DroidCafeChallenge2\DroidCafeChallenge\app\src\main\AndroidManifest.xml:27:9-54
 	android:icon
-		ADDED from C:\Users\ted10014\SkyDrive\Android\DroidCafeChallenge2\DroidCafeChallenge\app\src\main\AndroidManifest.xml:23:9-43
+		ADDED from C:\Users\ted10014\SkyDrive\Android\DroidCafeChallenge2\DroidCafeChallenge\app\src\main\AndroidManifest.xml:25:9-43
 	android:allowBackup
-		ADDED from C:\Users\ted10014\SkyDrive\Android\DroidCafeChallenge2\DroidCafeChallenge\app\src\main\AndroidManifest.xml:22:9-35
+		ADDED from C:\Users\ted10014\SkyDrive\Android\DroidCafeChallenge2\DroidCafeChallenge\app\src\main\AndroidManifest.xml:24:9-35
 	android:theme
-		ADDED from C:\Users\ted10014\SkyDrive\Android\DroidCafeChallenge2\DroidCafeChallenge\app\src\main\AndroidManifest.xml:27:9-40
+		ADDED from C:\Users\ted10014\SkyDrive\Android\DroidCafeChallenge2\DroidCafeChallenge\app\src\main\AndroidManifest.xml:29:9-40
 activity#com.example.android.droidcafe.MainActivity
-ADDED from C:\Users\ted10014\SkyDrive\Android\DroidCafeChallenge2\DroidCafeChallenge\app\src\main\AndroidManifest.xml:28:9-37:20
+ADDED from C:\Users\ted10014\SkyDrive\Android\DroidCafeChallenge2\DroidCafeChallenge\app\src\main\AndroidManifest.xml:30:9-39:20
 	android:label
-		ADDED from C:\Users\ted10014\SkyDrive\Android\DroidCafeChallenge2\DroidCafeChallenge\app\src\main\AndroidManifest.xml:30:13-45
+		ADDED from C:\Users\ted10014\SkyDrive\Android\DroidCafeChallenge2\DroidCafeChallenge\app\src\main\AndroidManifest.xml:32:13-45
 	android:theme
-		ADDED from C:\Users\ted10014\SkyDrive\Android\DroidCafeChallenge2\DroidCafeChallenge\app\src\main\AndroidManifest.xml:31:13-56
+		ADDED from C:\Users\ted10014\SkyDrive\Android\DroidCafeChallenge2\DroidCafeChallenge\app\src\main\AndroidManifest.xml:33:13-56
 	android:name
-		ADDED from C:\Users\ted10014\SkyDrive\Android\DroidCafeChallenge2\DroidCafeChallenge\app\src\main\AndroidManifest.xml:29:13-41
+		ADDED from C:\Users\ted10014\SkyDrive\Android\DroidCafeChallenge2\DroidCafeChallenge\app\src\main\AndroidManifest.xml:31:13-70
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\ted10014\SkyDrive\Android\DroidCafeChallenge2\DroidCafeChallenge\app\src\main\AndroidManifest.xml:32:13-36:29
+ADDED from C:\Users\ted10014\SkyDrive\Android\DroidCafeChallenge2\DroidCafeChallenge\app\src\main\AndroidManifest.xml:34:13-38:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\ted10014\SkyDrive\Android\DroidCafeChallenge2\DroidCafeChallenge\app\src\main\AndroidManifest.xml:33:17-69
+ADDED from C:\Users\ted10014\SkyDrive\Android\DroidCafeChallenge2\DroidCafeChallenge\app\src\main\AndroidManifest.xml:35:17-69
 	android:name
-		ADDED from C:\Users\ted10014\SkyDrive\Android\DroidCafeChallenge2\DroidCafeChallenge\app\src\main\AndroidManifest.xml:33:25-66
+		ADDED from C:\Users\ted10014\SkyDrive\Android\DroidCafeChallenge2\DroidCafeChallenge\app\src\main\AndroidManifest.xml:35:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\ted10014\SkyDrive\Android\DroidCafeChallenge2\DroidCafeChallenge\app\src\main\AndroidManifest.xml:35:17-77
+ADDED from C:\Users\ted10014\SkyDrive\Android\DroidCafeChallenge2\DroidCafeChallenge\app\src\main\AndroidManifest.xml:37:17-77
 	android:name
-		ADDED from C:\Users\ted10014\SkyDrive\Android\DroidCafeChallenge2\DroidCafeChallenge\app\src\main\AndroidManifest.xml:35:27-74
+		ADDED from C:\Users\ted10014\SkyDrive\Android\DroidCafeChallenge2\DroidCafeChallenge\app\src\main\AndroidManifest.xml:37:27-74
 activity#com.example.android.droidcafe.OrderActivity
-ADDED from C:\Users\ted10014\SkyDrive\Android\DroidCafeChallenge2\DroidCafeChallenge\app\src\main\AndroidManifest.xml:38:9-60
+ADDED from C:\Users\ted10014\SkyDrive\Android\DroidCafeChallenge2\DroidCafeChallenge\app\src\main\AndroidManifest.xml:40:9-42:20
 	android:name
-		ADDED from C:\Users\ted10014\SkyDrive\Android\DroidCafeChallenge2\DroidCafeChallenge\app\src\main\AndroidManifest.xml:38:19-48
+		ADDED from C:\Users\ted10014\SkyDrive\Android\DroidCafeChallenge2\DroidCafeChallenge\app\src\main\AndroidManifest.xml:40:19-48
 uses-sdk
 INJECTED from C:\Users\ted10014\SkyDrive\Android\DroidCafeChallenge2\DroidCafeChallenge\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\ted10014\SkyDrive\Android\DroidCafeChallenge2\DroidCafeChallenge\app\src\main\AndroidManifest.xml
 INJECTED from C:\Users\ted10014\SkyDrive\Android\DroidCafeChallenge2\DroidCafeChallenge\app\src\main\AndroidManifest.xml
-MERGED from [com.google.android.material:material:1.0.0] C:\Users\ted10014\.gradle\caches\transforms-2\files-2.1\b993da38436db8aa9bbcc3b6cba1aa79\material-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.material:material:1.0.0] C:\Users\ted10014\.gradle\caches\transforms-2\files-2.1\b993da38436db8aa9bbcc3b6cba1aa79\material-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.appcompat:appcompat:1.0.0] C:\Users\ted10014\.gradle\caches\transforms-2\files-2.1\ede3a54bad95ec5e304beb380353247a\appcompat-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.appcompat:appcompat:1.0.0] C:\Users\ted10014\.gradle\caches\transforms-2\files-2.1\ede3a54bad95ec5e304beb380353247a\appcompat-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\ted10014\.gradle\caches\transforms-2\files-2.1\5f6178793eab0d00d8da4a72adf717fd\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
-MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\ted10014\.gradle\caches\transforms-2\files-2.1\5f6178793eab0d00d8da4a72adf717fd\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
-MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\ted10014\.gradle\caches\transforms-2\files-2.1\ec60912b9a360ae2e65ff9551374e408\fragment-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\ted10014\.gradle\caches\transforms-2\files-2.1\ec60912b9a360ae2e65ff9551374e408\fragment-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\ted10014\.gradle\caches\transforms-2\files-2.1\e32057c829b12cb4548b6226b3a78c9b\vectordrawable-animated-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\ted10014\.gradle\caches\transforms-2\files-2.1\e32057c829b12cb4548b6226b3a78c9b\vectordrawable-animated-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\ted10014\.gradle\caches\transforms-2\files-2.1\5b15bda8d8d07b41b7bc0a2beac47079\recyclerview-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\ted10014\.gradle\caches\transforms-2\files-2.1\5b15bda8d8d07b41b7bc0a2beac47079\recyclerview-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\ted10014\.gradle\caches\transforms-2\files-2.1\db1a88aa8d00a971df1d7414290cda12\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\ted10014\.gradle\caches\transforms-2\files-2.1\db1a88aa8d00a971df1d7414290cda12\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\ted10014\.gradle\caches\transforms-2\files-2.1\0120b4add614f5c34814c5f2338ed2ea\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\ted10014\.gradle\caches\transforms-2\files-2.1\0120b4add614f5c34814c5f2338ed2ea\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] C:\Users\ted10014\.gradle\caches\transforms-2\files-2.1\b6a70870c9175c5810d71265de7a1a19\vectordrawable-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] C:\Users\ted10014\.gradle\caches\transforms-2\files-2.1\b6a70870c9175c5810d71265de7a1a19\vectordrawable-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.transition:transition:1.0.0] C:\Users\ted10014\.gradle\caches\transforms-2\files-2.1\80224e1f1c9cf0f5065cbf27f99f0bbc\transition-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.transition:transition:1.0.0] C:\Users\ted10014\.gradle\caches\transforms-2\files-2.1\80224e1f1c9cf0f5065cbf27f99f0bbc\transition-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.loader:loader:1.0.0] C:\Users\ted10014\.gradle\caches\transforms-2\files-2.1\869ca5a56b92140c5cdf6167e44df240\loader-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.loader:loader:1.0.0] C:\Users\ted10014\.gradle\caches\transforms-2\files-2.1\869ca5a56b92140c5cdf6167e44df240\loader-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\ted10014\.gradle\caches\transforms-2\files-2.1\f35416a842330f32f8a375204d74bdf1\viewpager-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\ted10014\.gradle\caches\transforms-2\files-2.1\f35416a842330f32f8a375204d74bdf1\viewpager-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\ted10014\.gradle\caches\transforms-2\files-2.1\0dbda3c10a4c084af3c69e2195431ca4\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\ted10014\.gradle\caches\transforms-2\files-2.1\0dbda3c10a4c084af3c69e2195431ca4\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\ted10014\.gradle\caches\transforms-2\files-2.1\85d517c786d9a2090b7ba6db41f65f0e\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\ted10014\.gradle\caches\transforms-2\files-2.1\85d517c786d9a2090b7ba6db41f65f0e\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\ted10014\.gradle\caches\transforms-2\files-2.1\06b7a5374427b469e169ddfbaa5b266b\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\ted10014\.gradle\caches\transforms-2\files-2.1\06b7a5374427b469e169ddfbaa5b266b\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.customview:customview:1.0.0] C:\Users\ted10014\.gradle\caches\transforms-2\files-2.1\6a05af489b7325c57094584e3657bfc1\customview-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.customview:customview:1.0.0] C:\Users\ted10014\.gradle\caches\transforms-2\files-2.1\6a05af489b7325c57094584e3657bfc1\customview-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\ted10014\.gradle\caches\transforms-2\files-2.1\a6bf1354a20c423907a8f57006330f73\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\ted10014\.gradle\caches\transforms-2\files-2.1\a6bf1354a20c423907a8f57006330f73\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\ted10014\.gradle\caches\transforms-2\files-2.1\7608094fe758d1d9b0bae440a7cbe67a\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\ted10014\.gradle\caches\transforms-2\files-2.1\7608094fe758d1d9b0bae440a7cbe67a\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.core:core:1.0.0] C:\Users\ted10014\.gradle\caches\transforms-2\files-2.1\20dcebe23302dc5509a9bd4aa498905c\core-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.core:core:1.0.0] C:\Users\ted10014\.gradle\caches\transforms-2\files-2.1\20dcebe23302dc5509a9bd4aa498905c\core-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\ted10014\.gradle\caches\transforms-2\files-2.1\547c274156d7e29372e8a2b51ac3aad1\versionedparcelable-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\ted10014\.gradle\caches\transforms-2\files-2.1\547c274156d7e29372e8a2b51ac3aad1\versionedparcelable-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\ted10014\.gradle\caches\transforms-2\files-2.1\9a319a17d8cec259feff8442e660c857\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\ted10014\.gradle\caches\transforms-2\files-2.1\9a319a17d8cec259feff8442e660c857\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\ted10014\.gradle\caches\transforms-2\files-2.1\d78197c251a03bd8b0f2aac942169331\cardview-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\ted10014\.gradle\caches\transforms-2\files-2.1\d78197c251a03bd8b0f2aac942169331\cardview-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\ted10014\.gradle\caches\transforms-2\files-2.1\4bf21eb0834fc8de1b4849b578dad08f\lifecycle-runtime-2.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\ted10014\.gradle\caches\transforms-2\files-2.1\4bf21eb0834fc8de1b4849b578dad08f\lifecycle-runtime-2.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\ted10014\.gradle\caches\transforms-2\files-2.1\d426ad56ad9fae79d0acbbe9a88e1cc2\documentfile-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\ted10014\.gradle\caches\transforms-2\files-2.1\d426ad56ad9fae79d0acbbe9a88e1cc2\documentfile-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\ted10014\.gradle\caches\transforms-2\files-2.1\b208dda6e431ff0e268c9b99b6bc6972\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\ted10014\.gradle\caches\transforms-2\files-2.1\b208dda6e431ff0e268c9b99b6bc6972\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.print:print:1.0.0] C:\Users\ted10014\.gradle\caches\transforms-2\files-2.1\a1c0603f5c9c2bd93e2721d4d4e70b5e\print-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.print:print:1.0.0] C:\Users\ted10014\.gradle\caches\transforms-2\files-2.1\a1c0603f5c9c2bd93e2721d4d4e70b5e\print-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\ted10014\.gradle\caches\transforms-2\files-2.1\7dc23fbc6d8906d1b71525df4312a213\lifecycle-viewmodel-2.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\ted10014\.gradle\caches\transforms-2\files-2.1\7dc23fbc6d8906d1b71525df4312a213\lifecycle-viewmodel-2.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\ted10014\.gradle\caches\transforms-2\files-2.1\47ebe00484fa6977431e215e5255259e\interpolator-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\ted10014\.gradle\caches\transforms-2\files-2.1\47ebe00484fa6977431e215e5255259e\interpolator-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\ted10014\.gradle\caches\transforms-2\files-2.1\78c4b5a2c25b0f9d9205b436a3c8baeb\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\ted10014\.gradle\caches\transforms-2\files-2.1\78c4b5a2c25b0f9d9205b436a3c8baeb\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\ted10014\.gradle\caches\transforms-2\files-2.1\33d620adfb4506534db94bbc45944013\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\ted10014\.gradle\caches\transforms-2\files-2.1\33d620adfb4506534db94bbc45944013\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\ted10014\.gradle\caches\transforms-2\files-2.1\d6696ce78928a94b2ea7ad4c59c859fe\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\ted10014\.gradle\caches\transforms-2\files-2.1\d6696ce78928a94b2ea7ad4c59c859fe\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\ted10014\.gradle\caches\transforms-2\files-2.1\e7e08e901271ddedf3b6abae3fae1180\constraintlayout-2.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\ted10014\.gradle\caches\transforms-2\files-2.1\e7e08e901271ddedf3b6abae3fae1180\constraintlayout-2.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.material:material:1.2.0] C:\Users\ted10014\.gradle\caches\transforms-2\files-2.1\b9cc3ce27c2359d2adfe8d7220c31053\material-1.2.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.2.0] C:\Users\ted10014\.gradle\caches\transforms-2\files-2.1\b9cc3ce27c2359d2adfe8d7220c31053\material-1.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\ted10014\.gradle\caches\transforms-2\files-2.1\648553addc976d46aac4da8350cf7ce0\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\ted10014\.gradle\caches\transforms-2\files-2.1\648553addc976d46aac4da8350cf7ce0\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\ted10014\.gradle\caches\transforms-2\files-2.1\cdb091fd122eec5f2ba1f62cfae41b93\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\ted10014\.gradle\caches\transforms-2\files-2.1\cdb091fd122eec5f2ba1f62cfae41b93\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\ted10014\.gradle\caches\transforms-2\files-2.1\f5aedf9fe581b7e9333273e54579e3f0\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\ted10014\.gradle\caches\transforms-2\files-2.1\f5aedf9fe581b7e9333273e54579e3f0\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\ted10014\.gradle\caches\transforms-2\files-2.1\0323c625456b5af7d5139d65c9f8f65f\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\ted10014\.gradle\caches\transforms-2\files-2.1\0323c625456b5af7d5139d65c9f8f65f\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\ted10014\.gradle\caches\transforms-2\files-2.1\e3f3a8961ceacc95a58814d05182150d\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\ted10014\.gradle\caches\transforms-2\files-2.1\e3f3a8961ceacc95a58814d05182150d\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\ted10014\.gradle\caches\transforms-2\files-2.1\a8fc4fa72a7411222c8cfc6e9ec61e75\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\ted10014\.gradle\caches\transforms-2\files-2.1\a8fc4fa72a7411222c8cfc6e9ec61e75\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\ted10014\.gradle\caches\transforms-2\files-2.1\e97ebad9b3aacea5229f9be181c7949d\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\ted10014\.gradle\caches\transforms-2\files-2.1\e97ebad9b3aacea5229f9be181c7949d\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\ted10014\.gradle\caches\transforms-2\files-2.1\08124b012a70a9803573cde068e2b9ed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\ted10014\.gradle\caches\transforms-2\files-2.1\08124b012a70a9803573cde068e2b9ed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\ted10014\.gradle\caches\transforms-2\files-2.1\8f5559d9cc86d01a2de3d2b062d9b9a2\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\ted10014\.gradle\caches\transforms-2\files-2.1\8f5559d9cc86d01a2de3d2b062d9b9a2\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\ted10014\.gradle\caches\transforms-2\files-2.1\b70b3798ec878b45b2a0a81634cce294\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\ted10014\.gradle\caches\transforms-2\files-2.1\b70b3798ec878b45b2a0a81634cce294\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\ted10014\.gradle\caches\transforms-2\files-2.1\7a8e29c147c747fd9b125daf8862d6b2\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\ted10014\.gradle\caches\transforms-2\files-2.1\7a8e29c147c747fd9b125daf8862d6b2\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\ted10014\.gradle\caches\transforms-2\files-2.1\9e8e6d09197a61d74067109387e35fc7\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\ted10014\.gradle\caches\transforms-2\files-2.1\9e8e6d09197a61d74067109387e35fc7\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\ted10014\.gradle\caches\transforms-2\files-2.1\158f5cfc0b4648681744ecfa4042c23b\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\ted10014\.gradle\caches\transforms-2\files-2.1\158f5cfc0b4648681744ecfa4042c23b\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\ted10014\.gradle\caches\transforms-2\files-2.1\4e891082990df48be1bf2b9ebb351bd8\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\ted10014\.gradle\caches\transforms-2\files-2.1\4e891082990df48be1bf2b9ebb351bd8\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\ted10014\.gradle\caches\transforms-2\files-2.1\e11919b9d701cc6ea4ca233a3f620a7c\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\ted10014\.gradle\caches\transforms-2\files-2.1\e11919b9d701cc6ea4ca233a3f620a7c\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.3.1] C:\Users\ted10014\.gradle\caches\transforms-2\files-2.1\a6e077cad25bf85b43a357d8ea26e77a\core-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.1] C:\Users\ted10014\.gradle\caches\transforms-2\files-2.1\a6e077cad25bf85b43a357d8ea26e77a\core-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\ted10014\.gradle\caches\transforms-2\files-2.1\0a8bfeae0101deac09a33f0a838718cb\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\ted10014\.gradle\caches\transforms-2\files-2.1\0a8bfeae0101deac09a33f0a838718cb\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\ted10014\.gradle\caches\transforms-2\files-2.1\05a0e6d29a797da76ddb5deb16ae72ba\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\ted10014\.gradle\caches\transforms-2\files-2.1\05a0e6d29a797da76ddb5deb16ae72ba\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\ted10014\.gradle\caches\transforms-2\files-2.1\08db3826d2e5b6557fb99356f1319ffd\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\ted10014\.gradle\caches\transforms-2\files-2.1\08db3826d2e5b6557fb99356f1319ffd\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\ted10014\.gradle\caches\transforms-2\files-2.1\b4a223440eacb8e72dfc4de9a8e95456\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\ted10014\.gradle\caches\transforms-2\files-2.1\b4a223440eacb8e72dfc4de9a8e95456\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\ted10014\.gradle\caches\transforms-2\files-2.1\ceba59c42c491cbbb489fbfcde0d8ed5\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\ted10014\.gradle\caches\transforms-2\files-2.1\ceba59c42c491cbbb489fbfcde0d8ed5\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\ted10014\.gradle\caches\transforms-2\files-2.1\9a75dbc7e9b06c31b295eb770c4dcff4\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\ted10014\.gradle\caches\transforms-2\files-2.1\9a75dbc7e9b06c31b295eb770c4dcff4\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\ted10014\.gradle\caches\transforms-2\files-2.1\d920a6e13bec4ce1782aa1f8881f0e7e\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\ted10014\.gradle\caches\transforms-2\files-2.1\d920a6e13bec4ce1782aa1f8881f0e7e\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\ted10014\.gradle\caches\transforms-2\files-2.1\cac3e6170f7750d4a3118fd450ab85c2\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\ted10014\.gradle\caches\transforms-2\files-2.1\cac3e6170f7750d4a3118fd450ab85c2\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\ted10014\.gradle\caches\transforms-2\files-2.1\773b106d64b3b9d5f45e3fb97026de4b\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\ted10014\.gradle\caches\transforms-2\files-2.1\773b106d64b3b9d5f45e3fb97026de4b\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\ted10014\.gradle\caches\transforms-2\files-2.1\9434e013e462774297f465f78d88a5aa\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\ted10014\.gradle\caches\transforms-2\files-2.1\9434e013e462774297f465f78d88a5aa\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
 INJECTED from C:\Users\ted10014\SkyDrive\Android\DroidCafeChallenge2\DroidCafeChallenge\app\src\main\AndroidManifest.xml
 INJECTED from C:\Users\ted10014\SkyDrive\Android\DroidCafeChallenge2\DroidCafeChallenge\app\src\main\AndroidManifest.xml
 	android:targetSdkVersion

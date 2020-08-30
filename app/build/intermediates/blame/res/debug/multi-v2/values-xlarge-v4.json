@@ -4,7 +4,7 @@
             "outputFile": "C:\\Users\\ted10014\\SkyDrive\\Android\\DroidCafeChallenge2\\DroidCafeChallenge\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-xlarge-v4\\values-xlarge-v4.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\ted10014\\.gradle\\caches\\transforms-2\\files-2.1\\ede3a54bad95ec5e304beb380353247a\\appcompat-1.0.0\\res\\values-xlarge-v4\\values-xlarge-v4.xml",
+                    "source": "C:\\Users\\ted10014\\.gradle\\caches\\transforms-2\\files-2.1\\648553addc976d46aac4da8350cf7ce0\\appcompat-1.2.0\\res\\values-xlarge-v4\\values-xlarge-v4.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7",
                         "startColumns": "4,4,4,4,4,4",

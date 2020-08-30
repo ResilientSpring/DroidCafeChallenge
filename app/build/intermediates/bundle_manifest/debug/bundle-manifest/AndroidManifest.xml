@@ -15,13 +15,16 @@
   ~ limitations under the License.
 -->
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:dist="http://schemas.android.com/apk/distribution"
     package="com.example.android.droidcafe"
     android:versionCode="1"
     android:versionName="1.0" >
 
     <uses-sdk
         android:minSdkVersion="23"
-        android:targetSdkVersion="26" />
+        android:targetSdkVersion="29" />
+
+    <dist:module dist:instant="true" />
 
     <application
         android:allowBackup="true"
@@ -44,7 +47,8 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name="com.example.android.droidcafe.OrderActivity" />
+        <activity android:name="com.example.android.droidcafe.OrderActivity" >
+        </activity>
     </application>
 
 </manifest>
