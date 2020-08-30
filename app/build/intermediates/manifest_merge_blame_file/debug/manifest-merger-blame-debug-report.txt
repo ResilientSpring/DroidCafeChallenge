@@ -29,8 +29,8 @@
 26-->C:\Users\ted10014\SkyDrive\Android\DroidCafeChallenge2\DroidCafeChallenge\app\src\main\AndroidManifest.xml:21:5-39:19
 27        android:allowBackup="true"
 27-->C:\Users\ted10014\SkyDrive\Android\DroidCafeChallenge2\DroidCafeChallenge\app\src\main\AndroidManifest.xml:22:9-35
-28        android:appComponentFactory="android.support.v4.app.CoreComponentFactory"
-28-->[com.android.support:support-compat:28.0.0] C:\Users\ted10014\.gradle\caches\transforms-2\files-2.1\ee328cf0dedc22e09b03c5b2245ec54e\support-compat-28.0.0\AndroidManifest.xml:22:18-91
+28        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+28-->[androidx.core:core:1.0.0] C:\Users\ted10014\.gradle\caches\transforms-2\files-2.1\20dcebe23302dc5509a9bd4aa498905c\core-1.0.0\AndroidManifest.xml:22:18-86
 29        android:debuggable="true"
 30        android:extractNativeLibs="false"
 31        android:icon="@mipmap/ic_launcher"

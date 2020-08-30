@@ -4,7 +4,7 @@
             "outputFile": "C:\\Users\\ted10014\\SkyDrive\\Android\\DroidCafeChallenge2\\DroidCafeChallenge\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v23\\values-v23.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\ted10014\\.gradle\\caches\\transforms-2\\files-2.1\\8330b8d79ec5ab914847956ba5f56f03\\cardview-v7-28.0.0\\res\\values-v23\\values-v23.xml",
+                    "source": "C:\\Users\\ted10014\\.gradle\\caches\\transforms-2\\files-2.1\\d78197c251a03bd8b0f2aac942169331\\cardview-1.0.0\\res\\values-v23\\values-v23.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -23,7 +23,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\ted10014\\.gradle\\caches\\transforms-2\\files-2.1\\d6773b14ca5f5f6985db25f477a8ed63\\appcompat-v7-28.0.0\\res\\values-v23\\values-v23.xml",
+                    "source": "C:\\Users\\ted10014\\.gradle\\caches\\transforms-2\\files-2.1\\ede3a54bad95ec5e304beb380353247a\\appcompat-1.0.0\\res\\values-v23\\values-v23.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,19,32,33,34,35,36",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4",

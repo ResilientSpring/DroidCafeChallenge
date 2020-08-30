@@ -4,7 +4,7 @@
             "outputFile": "C:\\Users\\ted10014\\SkyDrive\\Android\\DroidCafeChallenge2\\DroidCafeChallenge\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-port\\values-port.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\ted10014\\.gradle\\caches\\transforms-2\\files-2.1\\d6773b14ca5f5f6985db25f477a8ed63\\appcompat-v7-28.0.0\\res\\values-port\\values-port.xml",
+                    "source": "C:\\Users\\ted10014\\.gradle\\caches\\transforms-2\\files-2.1\\ede3a54bad95ec5e304beb380353247a\\appcompat-1.0.0\\res\\values-port\\values-port.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
