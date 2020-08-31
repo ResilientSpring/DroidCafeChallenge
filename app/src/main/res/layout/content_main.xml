@@ -25,6 +25,14 @@
     tools:context="com.example.android.droidcafe.MainActivity"
     tools:showIn="@layout/activity_main">
 
+    <!-- The app:layout_behavior for the ConstraintLayout is set to @string/appbar_scrolling_view_behavior,
+    which controls how the screen scrolls in relation to the app bar at the top.
+    (This string resource is defined in a generated file called values.xml, which you should not edit.)
+
+    Reference:
+    https://codelabs.developers.google.com/codelabs/android-training-menus-and-pickers/index.html?index=..%2F..android-training#2
+    -->
+
     <TextView
         android:id="@+id/textintro"
         android:layout_width="wrap_content"

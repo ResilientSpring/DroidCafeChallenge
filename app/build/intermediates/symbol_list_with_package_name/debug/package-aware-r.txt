@@ -1540,6 +1540,7 @@ drawable design_password_eye
 drawable design_snackbar_background
 drawable donut_circle
 drawable froyo_circle
+drawable ic_favorite
 drawable ic_launcher_background
 drawable ic_launcher_foreground
 drawable ic_map
@@ -1547,7 +1548,9 @@ drawable ic_mtrl_checked_circle
 drawable ic_mtrl_chip_checked_black
 drawable ic_mtrl_chip_checked_circle
 drawable ic_mtrl_chip_close_circle
+drawable ic_order
 drawable ic_shopping_cart
+drawable ic_status_info
 drawable icecream_circle
 drawable material_ic_calendar_black_24dp
 drawable material_ic_clear_black_24dp

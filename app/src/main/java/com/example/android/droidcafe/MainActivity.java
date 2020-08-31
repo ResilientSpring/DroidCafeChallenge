@@ -89,9 +89,30 @@ public class MainActivity extends AppCompatActivity {
 
         // This comment suppresses the Android Studio warning about simplifying
         // the return statements.
-        //no inspection Simplifiable If Statement
+        // no inspection Simplifiable If Statement
         if (id == R.id.action_order) {  // action_order is chosen as it has the least number of orderInCategory from menu_main.xml
             return true;
+        }
+
+        // Instead of using if statement, switch statement is more clear and concise in handling multiple menu items.
+        switch (item.getItemId()) {
+            case R.id.action_order:
+                displayToast(getString(R.string.action_order_message));
+                Intent intent = new Intent(MainActivity.this, OrderActivity.class);
+                intent.putExtra(EXTRA_MESSAGE, mOrderMessage);
+                startActivity(intent);
+                return true;
+            case R.id.action_status:
+                displayToast(getString(R.string.action_status_message));
+                return true;
+            case R.id.action_favorites:
+                displayToast(getString(R.string.action_favorites_message));
+                return true;
+            case R.id.action_contact:
+                displayToast(getString(R.string.action_contact_message));
+                return true;
+            default:
+                // Do nothing
         }
 
         return super.onOptionsItemSelected(item);
