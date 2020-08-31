@@ -38,10 +38,34 @@ https://codelabs.developers.google.com/codelabs/android-training-menus-and-picke
     android:layout_height="match_parent"
     tools:context="com.example.android.droidcafe.MainActivity">
 
+<!--CoordinatorLayout layout with an embedded AppBarLayout layout.
+The CoordinatorLayout and the AppBarLayout tags require fully qualified names that specify android.support.design,
+which is the Android Design Support Library.
+
+AppBarLayout is like a vertical LinearLayout.
+It uses the Toolbar class in the support library, instead of the native ActionBar, to implement an app bar.
+The Toolbar within this layout has the id "toolbar", and is also specified, like the AppBarLayout,
+with a fully qualified name (android.support.v7.widget).
+-->
+
     <com.google.android.material.appbar.AppBarLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:theme="@style/AppTheme.AppBarOverlay">
+
+        <!--
+        The app bar is a section at the top of the display that can display the activity title, navigation,
+        and other interactive items.
+
+        The native ActionBar behaves differently depending on the version of Android running on the device.
+        For this reason, if you are adding an options menu,
+        you should use the v7 appcompat support library's Toolbar as an app bar.
+
+        Using the Toolbar makes it easy to set up an app bar that works on the widest range of devices,
+        and also gives you room to customize your app bar later on as your app develops.
+
+        Toolbar includes the most recent features, and works for any device that can use the support library.
+        -->
 
         <androidx.appcompat.widget.Toolbar
             android:id="@+id/toolbar"

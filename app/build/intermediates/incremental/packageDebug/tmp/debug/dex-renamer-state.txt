@@ -1,7 +1,13 @@
-#Sun Aug 30 16:17:26 CST 2020
-base.0=C\:\\Users\\ted10014\\SkyDrive\\Android\\DroidCafeChallenge2\\DroidCafeChallenge\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
+#Mon Aug 31 09:09:43 CST 2020
+path.3=classes.dex
+path.2=classes.dex
 path.1=classes.dex
-renamed.1=classes2.dex
 path.0=classes.dex
+renamed.3=classes4.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
 renamed.0=classes.dex
-base.1=C\:\\Users\\ted10014\\SkyDrive\\Android\\DroidCafeChallenge2\\DroidCafeChallenge\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\classes.dex
+base.3=C\:\\Users\\ted10014\\SkyDrive\\Android\\DroidCafeChallenge2\\DroidCafeChallenge\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\classes.dex
+base.2=C\:\\Users\\ted10014\\SkyDrive\\Android\\DroidCafeChallenge2\\DroidCafeChallenge\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
+base.1=C\:\\Users\\ted10\\OneDrive\\Android\\DroidCafeChallenge2\\DroidCafeChallenge\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\classes.dex
+base.0=C\:\\Users\\ted10\\OneDrive\\Android\\DroidCafeChallenge2\\DroidCafeChallenge\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
