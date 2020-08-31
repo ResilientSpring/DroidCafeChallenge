@@ -89,8 +89,8 @@ public class MainActivity extends AppCompatActivity {
 
         // This comment suppresses the Android Studio warning about simplifying
         // the return statements.
-        //noinspection SimplifiableIfStatement
-        if (id == R.id.action_settings) {
+        //no inspection Simplifiable If Statement
+        if (id == R.id.action_order) {  // action_order is chosen as it has the least number of orderInCategory from menu_main.xml
             return true;
         }
 
